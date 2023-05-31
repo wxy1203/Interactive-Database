@@ -10,3 +10,6 @@ Contents:
 - [ ] Artificial intelligence for proper estimation of carbon emission factors of new materials (e.g. rammed earth)
 - [ ] Consider introducing gpt port to do semantic understanding
 - [ ] Make the above into - a UI
+
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=wxy1203)
