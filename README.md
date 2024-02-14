@@ -9,4 +9,6 @@
 - Measure of the amount of carbon dioxide equivalent (CO<sub>2</sub>e) emissions associated with a specific activity, process, or unit of material
 
 ### Preview
-![alt text](https://github.com/wxy1203/InteractiveDB/blob/main/InteractiveDB.png)
+<p align="center">
+<img src="https://github.com/wxy1203/InteractiveDB/blob/main/InteractiveDB.png" width="500">
+</p>
